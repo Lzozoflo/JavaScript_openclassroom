@@ -17,11 +17,6 @@
 ## [📘 Cours JavaScript basics][tag-openclassroom-javascript-basic]
 ### [📘 Cours JavaScript page dynamique][tag-openclassroom-javascript-dynamique]
 
-<h2 id="description">𝔻escription</h2>
-
-
-- [🗓 𝕊ummary](#summary)
-
 <br>
 
 ---
@@ -33,7 +28,6 @@
     <strong id="summary">🗓 𝕊ummary</strong>
 </summary>
 
-- [𝔻escription](#description)
 - [𝕆bjectives](#objectives)
 - [🕑 𝕃earning ℙrogression](#learningprogression)
 - [📁 ℝepository Structure Tree](#rst)
@@ -47,8 +41,9 @@
 
 <h2 id="objectives">𝕆bjectives</h2>
 
->
->
+>- Apprendre les basic de javascript pour utiliser react dans le project trancendance de 42 
+>- Ensuite dans un second temps avoir quelque base plus poussé pour savoir manipuler du javascript
+>et pour la culture perso tout xp est bonne a prendre 
 >
 >
 >
@@ -106,6 +101,8 @@ timeline
 
 <h2 id="requirements">🛠 ℝequirements</h2>
 
+>- un navigateur pour afficher l'html + css + js
+
 
 - [🗓 𝕊ummary](#summary)
 
@@ -117,6 +114,8 @@ timeline
 
 <h2 id="resources">ℝesources</h2>
 
+>- [Pour les basic le cours openclassroom][tag-openclassroom-javascript-basic]
+>- Pour les page dynamique rien faire pour le moment alors en attente
 
 - [🗓 𝕊ummary](#summary)
 
