@@ -28,18 +28,21 @@
 
 <br>
 
-<h2 id="summary">🗓 𝕊ummary</h2>
+<details>
+<summary>
+    <strong id="summary">🗓 𝕊ummary</strong>
+</summary>
 
 - [𝔻escription](#description)
 - [𝕆bjectives](#objectives)
 - [🕑 𝕃earning ℙrogression](#learningprogression)
 - [📁 ℝepository Structure Tree](#rst)
 - [🛠 ℝequirements](#requirements)
-- [𝕌sage](#objectives)
 - [𝕃earning Notes](#learning-notes)
 - [ℝesources](#resources)
 - [🖋 𝔸uthor](#author)
 
+</details>
 
 
 <h2 id="objectives">𝕆bjectives</h2>
