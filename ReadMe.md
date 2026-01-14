@@ -68,7 +68,7 @@
 <h2 id="learningprogression">🕑 𝕃earning ℙrogression</h2>
 
 <details>
-<summary><strong>Mermaid</strong></summary>
+<summary><strong>Mermaid basic</strong></summary>
 
 ```mermaid
 ---
@@ -83,7 +83,7 @@ config:
     cScaleLabel2: "#ffffff"
 ---
 timeline
-    title Learning Progression
+    title Learning Progression basic
 
     section Cours-Basic/Part_2_C_4 
         how to creat a function in js
@@ -101,6 +101,36 @@ timeline
 ```
 
 </details>
+
+<details>
+<summary><strong>Mermaid page dynamique</strong></summary>
+
+```mermaid
+---
+config:
+  logLevel: debug
+  theme: default
+  themeVariables:
+    cScale0: "#ff0000"
+    cScaleLabel0: "#ffffff"
+    cScale1: "#00ff00"
+    cScale2: "#0000ff"
+    cScaleLabel2: "#ffffff"
+---
+timeline
+    title Learning Progression page dynamique
+
+    Cours-Dynamique/Part_1_C_3:
+        une explication rapide de plusieur type de donner sql, csv, xml…:
+        plus une petit partie pratique sur du json
+    section Cours-Dynamique/Part_1_C_4
+        un cours sur comment utiliser les ternair<br>j'ai aussi appris la connaissance de l'operatoreur nullish (??)<br>celui ci regarder seul si la var est NULL ou undefine
+
+```
+
+
+</details>
+
 
 - [🗓 𝕊ummary](#summary)
 
