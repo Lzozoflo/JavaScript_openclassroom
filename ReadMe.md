@@ -45,8 +45,17 @@
 >- Ensuite dans un second temps avoir quelque base plus poussé pour savoir manipuler du javascript
 >et pour la culture perso tout xp est bonne a prendre 
 >
->
->
+>>**Les Objectifs pédagogiques du cours sur les page dynamique**
+>>
+>>À la fin de ce cours, vous serez capable de :
+>>
+>>>- Créer une interface web à partir de données existantes ;
+>>>
+>>>- Rendre votre page web interactive ;
+>>>
+>>>- Interagir avec un service web à l’aide d’une API HTTP ;
+>>>
+>>>- Enrichir vos pages web grâce aux librairies.
 
 - [🗓 𝕊ummary](#summary)
 
