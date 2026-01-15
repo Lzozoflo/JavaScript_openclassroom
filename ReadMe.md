@@ -9,13 +9,15 @@
 
 
 <!-- [Tag-test]: url -->
-[tag-openclassroom-javascript-basic]: https://openclassrooms.com/fr/courses/7696886-apprenez-a-programmer-avec-javascript
-[tag-openclassroom-javascript-dynamique]: https://openclassrooms.com/fr/courses/7697016-creez-des-pages-web-dynamiques-avec-javascript
+[tag_openclassroom_javascript_basic]: https://openclassrooms.com/fr/courses/7696886-apprenez-a-programmer-avec-javascript
+[tag_openclassroom_javascript_dynamique]: https://openclassrooms.com/fr/courses/7697016-creez-des-pages-web-dynamiques-avec-javascript
 
-# JavaScript
+[tag_icon_js]: https://skillicons.dev/icons?i=js 
 
-## [📘 Cours JavaScript basics][tag-openclassroom-javascript-basic]
-### [📘 Cours JavaScript page dynamique][tag-openclassroom-javascript-dynamique]
+# ![icons][tag_icon_js] JavaScript
+
+## [📘 Cours JavaScript basics][tag_openclassroom_javascript_basic]
+### [📘 Cours JavaScript page dynamique][tag_openclassroom_javascript_dynamique]
 
 <br>
 
@@ -154,7 +156,7 @@ timeline
 
 <h2 id="resources">ℝesources</h2>
 
->- [Pour les basic le cours openclassroom][tag-openclassroom-javascript-basic]
+>- [Pour les basic le cours openclassroom][tag_openclassroom_javascript_basic]
 >- Pour les page dynamique rien faire pour le moment alors en attente
 
 - [🗓 𝕊ummary](#summary)
