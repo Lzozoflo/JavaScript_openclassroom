@@ -21,8 +21,6 @@
 
 ---
 
-<br>
-
 <details>
 <summary>
     <strong id="summary">🗓 𝕊ummary</strong>
@@ -38,6 +36,9 @@
 
 </details>
 
+---
+
+<br>
 
 <h2 id="objectives">𝕆bjectives</h2>
 
