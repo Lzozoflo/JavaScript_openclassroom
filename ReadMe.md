@@ -89,18 +89,18 @@ config:
 timeline
     title Learning Progression basic
 
-    section Cours-Basic/Part_2_C_4 
+    section Cours-Basic / Part_2_C_4 
         how to creat a function in js
-    section Cours-Basic/Part_3_C_1
+    section Cours-Basic / Part_3_C_1
         how to get an element html with<br>document.:
             getElementById:
             querySelector:
             AllquerySelector
-    section Cours-Basic/Part_3_C_2
+    section Cours-Basic / Part_3_C_2
         how to insert element on the html:
             Content on a balise<br>let balise.textContent = …:
             innerHTML<br>body.innerHTML = …
-    section Cours-Basic/Part_*_C_*
+    section Cours-Basic / Part_*_C_*
         how to use everything u learn
 ```
 
@@ -124,29 +124,31 @@ config:
 timeline
     title Learning Progression page dynamique
 
-     section Cours-Dynamique/Part_1_C_3:
-        Type of data:
-            One quick lesson on data type sql, csv, xml…:
+    section Cours-Dynamique / Part_1_C_3
+        Type of data 
+            One quick lesson on data type sql csv xml…
             With a part to use json
-    section Cours-Dynamique/Part_1_C_4:
+    section Cours-Dynamique / Part_1_C_4
         New operator:
             un cours sur comment utiliser les ternair<br>j'ai aussi appris la connaissance de l'operatoreur nullish (??)<br>celui ci regarder seul si la var est NULL ou undefine
-    section Cours-Dynamique/Part_2_C_1:
+    section Cours-Dynamique / Part_2_C_1
         Use list in js:
             .sort(function(a,b)… … …):
             .filter(function(var)… … …)
-    section Cours-Dynamique/Part_2_C_2:
+    section Cours-Dynamique / Part_2_C_2
         Map a list:
             .map(var => var.prix)
-    section Cours-Dynamique/Part_2_C_3:
-        Use what u learn:
-    section Cours-Dynamique/Part_2_C_4:
-        balise html Input type range:
+    section Cours-Dynamique / Part_2_C_3
+        Use what u learn
+    section Cours-Dynamique / Part_2_C_4
+        Balise html <b>Input<b> type range:
             update the web site with the new range off price
-    section Cours-Dynamique/Part_3_C_1:
-    
-
-
+    section Cours-Dynamique / Part_3_C_1
+        install and launch the serveur http / api + how to use fetch
+    section Cours-Dynamique / Part_3_C_2
+        Use fetch to get all pieces:
+            From..<br>const reponse =<br>await fetch('<br>pieces-autos.json'):
+            To..<br>const reponse =<br>await fetch('<br>http://localhost:8081/pieces')
 
 
 ```
