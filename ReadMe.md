@@ -143,6 +143,8 @@ timeline
     section Cours-Dynamique/Part_2_C_4:
         balise html Input type range:
             update the web site with the new range off price
+    section Cours-Dynamique/Part_3_C_1:
+    
 
 
 
