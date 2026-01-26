@@ -15,7 +15,7 @@
 
 [tag_icon_js]: https://skillicons.dev/icons?i=js 
 
-# ![icons][tag_icon_js] JavaScript
+# ![icons][tag_icon_js] JavaScript ![icons][tag_icon_js]
 
 ## [📘 Cours JavaScript basics][tag_openclassroom_javascript_basic]
 ### [📘 Cours JavaScript page dynamique][tag_openclassroom_javascript_dynamique]
@@ -45,11 +45,13 @@
 
 <h2 id="objectives">𝕆bjectives</h2>
 
->- Apprendre les basic de javascript pour utiliser react dans le project trancendance de 42 
->- Ensuite dans un second temps avoir quelque base plus poussé pour savoir manipuler du javascript
->et pour la culture perso tout xp est bonne a prendre 
+
+
+>- Apprendre les bases de JavaScript afin d’utiliser React dans le projet Transcendance de 42.
+>- Ensuite, dans un second temps, acquérir des bases plus avancées pour savoir manipuler JavaScript.
+>Et pour la culture personnelle, toute expérience est bonne à prendre.
 >
->>**Les Objectifs pédagogiques du cours sur les page dynamique**
+>>**Objectifs pédagogiques du cours sur les pages dynamiques**
 >>
 >>À la fin de ce cours, vous serez capable de :
 >>
@@ -60,6 +62,9 @@
 >>>- Interagir avec un service web à l’aide d’une API HTTP ;
 >>>
 >>>- Enrichir vos pages web grâce aux librairies.
+
+
+
 
 - [🗓 𝕊ummary](#summary)
 
@@ -165,7 +170,7 @@ timeline
 
 <h2 id="requirements">🛠 ℝequirements</h2>
 
->- un navigateur pour afficher l'html + css + js
+>- Un navigateur pour afficher l'html + css + js
 
 
 - [🗓 𝕊ummary](#summary)
@@ -179,7 +184,7 @@ timeline
 <h2 id="resources">ℝesources</h2>
 
 >- [Pour les basic le cours openclassroom][tag_openclassroom_javascript_basic]
->- Pour les page dynamique rien faire pour le moment alors en attente
+>- [JavaScript page dynamique][tag_openclassroom_javascript_dynamique]
 
 - [🗓 𝕊ummary](#summary)
 
